@@ -29,7 +29,7 @@ public class EventService : MonoBehaviour
 
     [SerializeField] private List<Event> eventsQueue = new List<Event>();
 
-    private static EventService singleton;
+    public static EventService singleton;
 
     void Awake()
     {
