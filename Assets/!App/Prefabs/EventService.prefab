@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad35b5a7c13b64747b0226d0dc7793dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  serverUrl: 
+  serverUrl: httpstat.us/200
   cooldownBeforeSend: 5
   prevSendTime: 0
   eventsQueue: []
